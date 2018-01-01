@@ -1,0 +1,14 @@
+{
+    "name": "stellar-sdk-simple-client",
+    "version": "0.1.0",
+    "main": "src/index.js",
+    "repository": "https://github.com/sbxio/stellar-sdk-simple-client.git",
+    "author": "sbxio <sbxio@outlook.com>",
+    "license": "MIT",
+    "keywords": [
+        "ripple"
+    ],
+    "dependencies": {
+        "stellar-sdk": "^0.8.0"
+    }
+}
